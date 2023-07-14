@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css2?family=Tektur&display=swap';
+/* @import 'https://fonts.googleapis.com/css?family=Lato'; */
+
+
+h1 {
+  font-family: 'Tektur', cursive;
+}
+
+li {
+  list-style-type: none;
+  }
