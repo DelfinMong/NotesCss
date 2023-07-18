@@ -1,0 +1,24 @@
+/* Attribute Selectors */
+
+/* div[data-color] {
+  background-color: yellow;
+} */
+
+/* a[target="_blank"] {
+  color: red;
+} */
+
+/* [target~="flower"] {
+  border: 5px solid red;
+} */
+
+/* [class^="bottom"] {
+  border: 5px solid red;
+} */
+
+/* [class$="text"] {
+  background-color: blue;
+} */
+
+/* Combinators */
+
