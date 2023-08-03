@@ -1,0 +1,18 @@
+#first {
+  color: white;
+  background-color: black;
+}
+
+#second {
+  color: red;
+  background: yellow;
+}
+
+#three {
+  color: rgb(0, 0,255);
+  background: rgb(200, 90, 230);
+}
+
+body {
+  background: rgb(100, 34, 210);
+}
