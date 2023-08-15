@@ -13,6 +13,11 @@
   background: rgb(200, 90, 230);
 }
 
+#four {
+  color: rgb(0, 255, 0, 0, 0.67);
+  background: rgb(0, 0, 0, 1);
+}
+
 body {
-  background: rgb(100, 34, 210);
+  background: rgb(210, 89, 210, 0.9);
 }
